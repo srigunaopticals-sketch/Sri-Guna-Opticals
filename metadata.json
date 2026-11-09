@@ -1,0 +1,6 @@
+{
+  "name": "Sri Guna Opticals",
+  "description": "Premium optical store and computerized eye testing clinic at Ganapathi Theater Complex, Gummidipoondi, Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
